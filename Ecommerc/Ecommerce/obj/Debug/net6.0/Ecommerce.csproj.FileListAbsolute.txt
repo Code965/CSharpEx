@@ -1,0 +1,28 @@
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+C:\Users\domi1\Desktop\Progetti\C#\Ecommerce\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+C:\Users\domi1\Desktop\Progetti\C# - CODE\Ecommerce\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
