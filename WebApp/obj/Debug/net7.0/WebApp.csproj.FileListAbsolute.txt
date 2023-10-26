@@ -1,0 +1,14 @@
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfo.cs
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\bin\Debug\net7.0\WebApp.exe
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\bin\Debug\net7.0\WebApp.deps.json
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\bin\Debug\net7.0\WebApp.runtimeconfig.json
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\bin\Debug\net7.0\WebApp.dll
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\bin\Debug\net7.0\WebApp.pdb
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\WebApp.dll
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\refint\WebApp.dll
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\WebApp.pdb
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\WebApp.genruntimeconfig.cache
+C:\Users\domi1\Desktop\Progetti\C#\WebApp\obj\Debug\net7.0\ref\WebApp.dll
