@@ -1,14 +1,13 @@
 using System;
 
-namespace WebApp.Models{
+namespace WebApp{
     public class Persona{
-
-        public int id = 0;
-        public string nome;
-        public string cognome;
+        private int id;
+        private string nome;
+        private string cognome;
 
         public Persona(string nome, string cognome){
-            this.id++;
+            this.id = 0;
             this.nome = nome;
             this.cognome = cognome;
         }
@@ -30,10 +29,19 @@ namespace WebApp.Models{
             }
         }
 
+        public int  Id{
+            get{
+                return this.id;
+            }
+            set{
+                this.id = value;
+            }
+        }
+
         //METODI
         public virtual string toString()
         {
-            return this.Nome + " " + this.Cognome;
+            return this.id + " " + this.Nome + " " + this.Cognome;
         }
 
         

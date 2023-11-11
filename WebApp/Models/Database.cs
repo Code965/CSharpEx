@@ -1,31 +1,75 @@
 using System;
 using System.Collections;
-using WebApp.Models;
 
 namespace WebApp
 {
     public class Database
     {   
-        ArrayList database = new ArrayList();
+        ArrayList memoria = new ArrayList();
 
         public void insertUser(Utente p){
-            database.Add(p);
+            p.Id +=1;
+            memoria.Add(p);
         }
 
-        public Utente[] getUtenti(){
+        public ArrayList getUtenti(){
+            return memoria;
+        }
+        public Utente login(string email,string password){
 
-            Utente[] arrayUtente = new Utente[database.Count];
-
-            foreach (Utente item in database)
+            foreach (Utente item in memoria)
             {
-                for(var i=0; i<database.Count; i++){
-                    arrayUtente[i] = item;
-                }
-                
+                if(item.Email == email && item.Password == password){
+                    Console.WriteLine("Utente Verificato,benvenuto");
+                    return item;
+                }            
             }
 
-            return arrayUtente;
+            return null;
         }
+
+
+        public void Update(string id){
+
+            foreach (Utente item in memoria)
+            {
+                if(item.Email == id){
+                    Console.WriteLine("Cosa vuoi modificare? 1-Nome, 2-Cognome, 3-Email, 4-Password ,5-Numero");
+                    int comando = int.Parse(Console.ReadLine());
+                    if(comando == 1){
+                        Console.WriteLine("inserisci il nome nuovo");
+                        item.Nome = Console.ReadLine();
+                    }else if(comando == 2){
+                         Console.WriteLine("inserisci il cognome nuovo");
+                        item.Cognome = Console.ReadLine();
+                    }else if(comando ==3){
+                         Console.WriteLine("inserisci l'email nuova");
+                        item.Email = Console.ReadLine();
+                    }else if(comando == 4){
+                        Console.WriteLine("inserisci la password");
+                        item.Password = Console.ReadLine();
+                    }else{
+                         Console.WriteLine("inserisci il numero nuovo");
+                         item.Numero = Console.ReadLine();
+                    }
+
+                }
+            }
+
+        }
+
+        public void update_password(string email,string psw){
+
+            foreach (Utente item in memoria)
+            {
+                if(item.Email == email){
+                    item.Password = psw;
+                }
+            }
+
+        }
+
+
 
         
     }

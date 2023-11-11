@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domi1\\Desktop\\Progetti\\C#\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\domi1\\Desktop\\Progetti\\CSharp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domi1\\Desktop\\Progetti\\C#\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\domi1\\Desktop\\Progetti\\CSharp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domi1\\Desktop\\Progetti\\C#\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\domi1\\Desktop\\Progetti\\CSharp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\domi1\\Desktop\\Progetti\\C#\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\domi1\\Desktop\\Progetti\\CSharp\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\domi1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domi1\\Desktop\\Progetti\\C#\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\domi1\\Desktop\\Progetti\\CSharp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

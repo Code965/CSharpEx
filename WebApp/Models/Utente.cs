@@ -1,15 +1,15 @@
 using System;
 
-namespace WebApp.Models{
+namespace WebApp{
 
     public class Utente : Persona{
 
-        public int id;
-        public string email;
-        public string password;
-        public string nome;
-        public string cognome;
-        public string numeroTelefono;
+        private int id;
+        private string nome;
+        private string cognome;
+        private string email;
+        private string password;
+        private string numeroTelefono;
 
         public Utente(string nome, string cognome, string email, string password, string numero):base(nome,cognome){
                 this.email = email;
